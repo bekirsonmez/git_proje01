@@ -6,7 +6,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 System.out.println("ilk commit from repository");
 System.out.println("ilk commit from repository");
-
+System.out.println("nedisin, ne var ne yok");
 
 
 	}
